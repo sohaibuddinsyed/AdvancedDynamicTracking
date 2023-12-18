@@ -1,5 +1,5 @@
 # ADVANCED DYNAMIC TRACKING (ADT)
-
+A smart surveillance software for CCTV systems, developed at MJ Hack Revolution and presented as a thesis work.
 ## 1. INTRODUCTION 
 ![Capture-7](https://user-images.githubusercontent.com/49821723/181609483-bbdb7101-d04a-44fe-b1ce-e8fbdc568ad1.PNG)
 <p align="center">Fig 1 ADT system</p>
